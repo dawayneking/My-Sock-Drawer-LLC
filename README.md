@@ -7,8 +7,7 @@
 - Increase the technical knowledge and add to my repertoire of skills, building on engineering and technical skills learned outside the classroom.  
   - I have a background engineering, but didn't finish college when I was a traditional student.
   - I haven't finished, and have been on and off; so I hope to finish someday, but you never stop learning and building upon skills from before.  
-- Make money from my personal business, My Sock Drawer, LLC., registered with the State of Florida on [SunBiz]([url](https://search.sunbiz.org/Inquiry/corporationsearch/SearchResultDetail?inquirytype=EntityName&directionType=Initial&searchNameOrder=MYSOCKDRAWER%20L250000561400&aggregateId=flal-l25000056140-7a7278b1-c21f-431c-a028-19297c4df8aa&searchTerm=MYSOCKBROKER.COM%20LLC&listNameOrder=MYSOCKBROKERCOM%20L180000918470)).
-
+- Make money from my personal business, My Sock Drawer, LLC., registered with the State of Florida on [SunBiz](https://search.sunbiz.org/Inquiry/corporationsearch/SearchResultDetail?inquirytype=EntityName&directionType=Initial&searchNameOrder=MYSOCKDRAWER%20L250000561400&aggregateId=flal-l25000056140-7a7278b1-c21f-431c-a028-19297c4df8aa&searchTerm=MYSOCKBROKER.COM%20LLC&listNameOrder=MYSOCKBROKERCOM%20L180000918470).
 ## About My Sock Drawer, LLC
 I have always had a passion for socks. My Sock Drawer, LLC is just that. A double entendre or wordplay to describe socks that I would keep in My Sock Drawer. The business came about from everyone jokingly wanting my socks, so I sold a few new identical pairs that I kept in My Sock Drawer. Even when I was down bad, and mentally not there, it always made me feel good when I received a compliment on my socks. Therefore, the mission of the company is "To Bring Joy And Happiness With The Creativity Through Socks."  In the future, I would love to be able to give socks to encourage mental health, and donate to charitable organizations including homeless shelters. Everyone deserves a pickmeup. 
 
@@ -19,7 +18,7 @@ Most people don't understand the importance of a good quality sock. Socks provid
 Feet are commonly known to support simple functions of our everyday lives such as standing, moving around, and supporting the balance and preventing shock for the body daily. Each foot contrains 26 bones, 33 joints, and over 100 muscle, tendons, or ligaments. There are nerves which make you feel. From when we are born, our feet are constantly changing, from size to support, we have to take care of them. Most people have two, but they are equally important; so socks are sold in pairs. 
 
 ### Focus on Your Feet!  
-No really... In March 2023, The National Institutes of Health published an article called "Focus on Your Feet!", and provided Steps to Protect Foot Health. 
+No really... In March 2023, The National Institutes of Health published an article called "[Focus on Your Feet!](https://newsinhealth.nih.gov/2023/03/focus-your-feet)", and provided Steps to Protect Foot Health. 
 
 
 ## Why make a blog for Github
