@@ -17,24 +17,30 @@ Currently I am funding all operations and ideas, as well as products; so I am ch
 The socks I sell are things I would have in My Sock Drawer. When shopping for Socks, I take heed to certain attributes such as comfort, style, material, cost, and a wide range of variable factors. I wouldn't see anyone something that I wouldn't wear, or give to a gift to a friend I know personally. I don't currently create my own sock yet, but I am using the products I carry to conduct market research for when I come out with my own. 
   - For example, currently I hold over ten brands of socks in my inventory including:
     <Details>
-      <Summary>Athletic Socks</Summary>
+    <Summary>Athletic Socks</Summary>
     - Stance  
     - Nike  
-    - Adidas  
+    - Adidas
+    - Jordan
+    - Under Armour
     </Details>
     <Details>
       <Summary>Designer Socks</Summary>
+    - Odd Sox
+    - Bombas
+    - True Religion
+    - Disney
+    - Viacom
     </Details>
     <Details>      
       <Summary>Dress and Formal Socks</Summary>
-    </Details>
-
-    - Odd Sox
     - Polo
     - DKNY
     - Perry Ellis
-    - Jordan
-    - Under Armour
-    - Disney
+    - Calvin Klein
+    </Details>
+    <Details>
+      <Summary>Work and Utility Socks</Summary>
     - Columbia
-    - True Religion
+    </Details>
+
