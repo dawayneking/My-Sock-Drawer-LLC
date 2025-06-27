@@ -11,4 +11,5 @@
 
 ## About My Sock Drawer, LLC
 I have always had a passion for socks. My Sock Drawer, LLC is just that. A double entendre or wordplay to describe socks that I would keep in My Sock Drawer. The business came about from everyone jokingly wanting my socks, so I sold a few new identical pairs that I kept in My Sock Drawer. Even when I was down bad, and mentally not there, it always made me feel good when I received a compliment on my socks. Therefore, the mission of the company is "To Bring Joy And Happiness With The Creativity Through Socks."  
+
 Currently I am funding all operations and ideas, as well as products; so I am challenging myself to use my technical skills to grow my company.
