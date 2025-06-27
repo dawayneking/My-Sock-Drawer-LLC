@@ -13,3 +13,18 @@
 I have always had a passion for socks. My Sock Drawer, LLC is just that. A double entendre or wordplay to describe socks that I would keep in My Sock Drawer. The business came about from everyone jokingly wanting my socks, so I sold a few new identical pairs that I kept in My Sock Drawer. Even when I was down bad, and mentally not there, it always made me feel good when I received a compliment on my socks. Therefore, the mission of the company is "To Bring Joy And Happiness With The Creativity Through Socks."  
 
 Currently I am funding all operations and ideas, as well as products; so I am challenging myself to use my technical skills to grow my company. I did try and start a non profit on digital marketing, but I may as well use all the skills and ideas I intended to teach kids around the neighborhood to get to the next level. I learned basic forms of Search Engine Optimization trying to grow my personal website, formerly "Dawayneking.com". Now I just tell people to google me to save the yearly fee, and just to flex the fact that I am on google. I also rather get more search inquires on the world wide web through search engines, so things I don't want to pop up show lower in relevancy. 
+
+The socks I sell are things I would have in My Sock Drawer. When shopping for Socks, I take heed to certain attributes such as comfort, style, material, cost, and a wide range of variable factors. I wouldn't see anyone something that I wouldn't wear, or give to a gift to a friend I know personally. I don't currently create my own sock yet, but I am using the products I carry to conduct market research for when I come out with my own. 
+  - For example, currently I hold over ten brands of socks in my inventory including:
+    - Stance
+    - Odd Sox
+    - Nike
+    - Adidas
+    - Polo
+    - DKNY
+    - Perry Ellis
+    - Jordan
+    - Under Armour
+    - Disney
+    - Columbia
+    - True Religion
