@@ -1,4 +1,5 @@
 # My-Sock-Drawer-LLC
+[Store Website ](https://0jqijz-vq.myshopify.com/)
 ### This will serve to show the progress that I am making towards my business and passion to the love of socks. I am using my background in engineering to accomplish my goal of providing a perfect sock, with stylish design, comfortability, and mental health in mind. Everyone deserves to feel good just as well as looking good. 
 ## What I intend on accomplishing with this:
 - Being able to keep track of my progress and have it as open source for others that want to follow my progress as well.  
