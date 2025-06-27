@@ -18,29 +18,29 @@ The socks I sell are things I would have in My Sock Drawer. When shopping for So
   - For example, currently I hold over ten brands of socks in my inventory including:
     <Details>
     <Summary>Athletic Socks</Summary>
-    - Stance  
-    - Nike  
-    - Adidas
-    - Jordan
-    - Under Armour
+    - Stance  <br>
+    - Nike  <br>
+    - Adidas  <br>
+    - Jordan  <br>
+    - Under Armour  <br>
     </Details>
     <Details>
       <Summary>Designer Socks</Summary>
-    - Odd Sox
-    - Bombas
-    - True Religion
-    - Disney
-    - Viacom
+    - Odd Sox  <br>
+    - Bombas  <br>
+    - True Religion  <br>  
+    - Disney  <br>
+    - Viacom  <br>
     </Details>
     <Details>      
       <Summary>Dress and Formal Socks</Summary>
-    - Polo
-    - DKNY
-    - Perry Ellis
-    - Calvin Klein
+    - Polo  <br>
+    - DKNY  <br>
+    - Perry Ellis  <br>
+    - Calvin Klein  <br>
     </Details>
     <Details>
       <Summary>Work and Utility Socks</Summary>
-    - Columbia
+    - Columbia  <br>
     </Details>
 
