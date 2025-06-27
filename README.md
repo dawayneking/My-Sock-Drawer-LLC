@@ -5,7 +5,6 @@
   Being able to reference my own work in a single place, as I have been losing notes and valuable documents through life circumstances I have faced over the few years.\ 
   test to see if line breaks
   Learn how to better use and navigate Github and the tools that they offer to users. 
-
   
   Increase the technical knowledge and add to my repertoire of skills, building on engineering and technical skills learned outside the classroom. 
     I have a background engineering, but didn't finish college when I was a traditional student. I haven't finished, and have been on and off; so I hope to finish someday, but you never stop learning and building upon skills from before. 
