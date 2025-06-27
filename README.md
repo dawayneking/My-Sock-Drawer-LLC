@@ -55,3 +55,8 @@ The socks I sell are things I would have in My Sock Drawer. When shopping for So
     - Columbia  <br>
     </Details>
 
+## How do Socks make you feel good
+When you get a gift, you may feel your brain release different chemicals you may or may not have heard before? The main three I would like to focus on when selling socks are Dopamine, Serotonin, and Oxytocin. They all play important roles correlated to how I bring customers socks.
+<Summary>Dopamine acts on areas of the brain to give you feelings of pleasure and satisfaction. When revewing an article published by The University of Arizon, one can learn about [Understanding the brain science behind giving and receiving gifts](https://news.arizona.edu/news/understanding-brain-science-behind-giving-and-receiving-gifts). The acts of giving and receiving gifts encompass many emotions. Whether or not you are an aktruistic person, spending money on others brings happiness to the gift giver and the person receiving the gift, studies say.   </Summary>
+<Summary>Serotonin is often referred to as a "Happy Chemical" becuase it's involved in regulating mood, feelings of happiness, wellbeing, and calmness amongst others. </Summary>
+<Summary>Oxytocin plays a cruitial role in social interactions - promoting feelings of trust, safety, and connection between individuals.</Summary>
