@@ -10,8 +10,19 @@
 - Make money from my personal business, My Sock Drawer, LLC., registered with the State of Florida on [SunBiz]([url](https://search.sunbiz.org/Inquiry/corporationsearch/SearchResultDetail?inquirytype=EntityName&directionType=Initial&searchNameOrder=MYSOCKDRAWER%20L250000561400&aggregateId=flal-l25000056140-7a7278b1-c21f-431c-a028-19297c4df8aa&searchTerm=MYSOCKBROKER.COM%20LLC&listNameOrder=MYSOCKBROKERCOM%20L180000918470)).
 
 ## About My Sock Drawer, LLC
-I have always had a passion for socks. My Sock Drawer, LLC is just that. A double entendre or wordplay to describe socks that I would keep in My Sock Drawer. The business came about from everyone jokingly wanting my socks, so I sold a few new identical pairs that I kept in My Sock Drawer. Even when I was down bad, and mentally not there, it always made me feel good when I received a compliment on my socks. Therefore, the mission of the company is "To Bring Joy And Happiness With The Creativity Through Socks."  
+I have always had a passion for socks. My Sock Drawer, LLC is just that. A double entendre or wordplay to describe socks that I would keep in My Sock Drawer. The business came about from everyone jokingly wanting my socks, so I sold a few new identical pairs that I kept in My Sock Drawer. Even when I was down bad, and mentally not there, it always made me feel good when I received a compliment on my socks. Therefore, the mission of the company is "To Bring Joy And Happiness With The Creativity Through Socks."  In the future, I would love to be able to give socks to encourage mental health, and donate to charitable organizations including homeless shelters. Everyone deserves a pickmeup. 
 
+## Why Socks
+Most people don't understand the importance of a good quality sock. Socks provide the protection and comfort for shoes we wear everyday, but also functions to improve foot health, and control moisture from continuous use.
+
+### Facts About Your Feet
+Feet are commonly known to support simple functions of our everyday lives such as standing, moving around, and supporting the balance and preventing shock for the body daily. Each foot contrains 26 bones, 33 joints, and over 100 muscle, tendons, or ligaments. There are nerves which make you feel. From when we are born, our feet are constantly changing, from size to support, we have to take care of them. Most people have two, but they are equally important; so socks are sold in pairs. 
+
+### Focus on Your Feet!  
+No really... In March 2023, The National Institutes of Health published an article called "Focus on Your Feet!", and provided Steps to Protect Foot Health. 
+
+
+## Why make a blog for Github
 Currently I am funding all operations and ideas, as well as products; so I am challenging myself to use my technical skills to grow my company. I did try and start a non profit on digital marketing, but I may as well use all the skills and ideas I intended to teach kids around the neighborhood to get to the next level. I learned basic forms of Search Engine Optimization trying to grow my personal website, formerly "Dawayneking.com". Now I just tell people to google me to save the yearly fee, and just to flex the fact that I am on google. I also rather get more search inquires on the world wide web through search engines, so things I don't want to pop up show lower in relevancy. 
 
 The socks I sell are things I would have in My Sock Drawer. When shopping for Socks, I take heed to certain attributes such as comfort, style, material, cost, and a wide range of variable factors. I wouldn't see anyone something that I wouldn't wear, or give to a gift to a friend I know personally. I don't currently create my own sock yet, but I am using the products I carry to conduct market research for when I come out with my own. 
